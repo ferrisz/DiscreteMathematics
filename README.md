@@ -1,0 +1,2 @@
+# DiscreteMathematics
+Ferris学习离散数学的那些东东
